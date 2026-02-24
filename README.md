@@ -13,8 +13,8 @@ It documents containerization, images, networking, volumes, Dockerfile and Docke
 <details open>
 <summary><b>🟢 Level 1: Docker Fundamentals</b></summary>
 
-| # | Task | Date | Status |
-| :--- | :--- | :--- | :--- |
+| # | Task | Status |
+| :--- | :--- | :--- |
 | 01 | Install Docker Packages and Start Docker Service | ✅ Done |
 | 02 | Deploy Nginx Container on Application Server | ✅ Done |
 | 03 | Delete Docker Container | ✅ Done |
