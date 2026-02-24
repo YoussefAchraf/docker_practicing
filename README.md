@@ -15,11 +15,11 @@ It documents containerization, images, networking, volumes, Dockerfile and Docke
 
 | # | Task | Date | Status |
 | :--- | :--- | :--- | :--- |
-| 01 | Install Docker Packages and Start Docker Service | 2026-02-23 | ✅ Done |
-| 02 | Deploy Nginx Container on Application Server | 2026-02-23 | ✅ Done |
-| 03 | Delete Docker Container | 2026-02-23 | ✅ Done |
-| 04 | Copy File to Docker Container | 2026-02-23 | ✅ Done |
-| 05 | Troubleshoot Docker Container Issue | 2026-02-23 | ✅ Done |
+| 01 | Install Docker Packages and Start Docker Service | ✅ Done |
+| 02 | Deploy Nginx Container on Application Server | ✅ Done |
+| 03 | Delete Docker Container | ✅ Done |
+| 04 | Copy File to Docker Container | ✅ Done |
+| 05 | Troubleshoot Docker Container Issue | ✅ Done |
 
 </details>
 
@@ -28,11 +28,11 @@ It documents containerization, images, networking, volumes, Dockerfile and Docke
 
 | # | Task | Status |
 | :--- | :--- | :--- |
-| 01 | Pull Docker Image | ⏳ Pending |
-| 02 | Docker Update Permissions | ⏳ Pending |
-| 03 | Create a Docker Image From Container | ⏳ Pending |
-| 04 | Docker EXEC Operations | ⏳ Pending |
-| 05 | Write a Dockerfile | ⏳ Pending |
+| 01 | Pull Docker Image | ✅ Done |
+| 02 | Docker Update Permissions | ✅ Done |
+| 03 | Create a Docker Image From Container | ✅ Done |
+| 04 | Docker EXEC Operations | ✅ Done |
+| 05 | Write a Dockerfile | ✅ Done |
 
 </details>
 
