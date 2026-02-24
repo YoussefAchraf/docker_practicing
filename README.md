@@ -24,7 +24,7 @@ It documents containerization, images, networking, volumes, Dockerfile and Docke
 </details>
 
 <details>
-<summary><b>🔵 Level 2: Images & Container Operations</b></summary>
+<summary><b>🟢 Level 2: Images & Container Operations</b></summary>
 
 | # | Task | Status |
 | :--- | :--- | :--- |
